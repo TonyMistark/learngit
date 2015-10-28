@@ -23,3 +23,6 @@ Git tracks changes of files.
 --
 this is 5
 git
+--
+this 6
+git
