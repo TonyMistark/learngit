@@ -26,3 +26,6 @@ git
 --
 this 6
 git
+--
+this is 7
+git
